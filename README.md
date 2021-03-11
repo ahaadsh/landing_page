@@ -8,6 +8,9 @@
 
 We build a project using HTML ,CSS and javascript.
 
-#navbar if click to any sections will go it.
-#scrolling icon.
-#active sections
+- Navbar if click to any sections will go it.
+- Scrolling icon.
+- Active sections
+
+## to start
+`npm i`
